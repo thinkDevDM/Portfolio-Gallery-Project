@@ -88,9 +88,9 @@ section {
 
 #gallery li {
     display: block;
+    cursor: pointer;
     float: left;
     width: 23%;
-    cursor: pointer;
     border-radius: 5px;
     box-sizing: border-box;
     margin: 0 12px 7px 0;
